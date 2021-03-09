@@ -8,7 +8,7 @@ public class AppleFactory extends GenricIndiaFactory implements FactorySpecifica
 
 	@Override
 	public void setRegNo(String regNo) {
-		// TODO Auto-generated method stub
+		
 	}
 
 	@Override
