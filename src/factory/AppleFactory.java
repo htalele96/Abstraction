@@ -1,7 +1,8 @@
 package factory;
 
 public class AppleFactory extends GenricIndiaFactory implements FactorySpecificationV1, FactorySpecificationV2{
-
+//this msg is from sanket fork
+	
 	public String getRegNo(){
 		return "APF1001";
 	}
